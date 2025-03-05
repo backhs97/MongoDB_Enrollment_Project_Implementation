@@ -4,6 +4,7 @@ A Python-based university enrollment management system using MongoDB for data st
 
 ## DEMO
 
+![mongo](https://github.com/user-attachments/assets/e1007b38-688f-4628-97b6-4fb7d92fdd34)
 
 
 ## Features
